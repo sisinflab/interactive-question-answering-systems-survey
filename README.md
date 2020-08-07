@@ -8,3 +8,9 @@ Citation
 ```
 
 ## Papers
+
+**INTERACTIVE QUESTION ANSWERING**
+
+|Year|Title|Challange|Task|Venue|Link|Code|
+|----|-----|---------|----|-----|----|----|
+|2020|Title Examples|System Performance|cQA|IEEE|[Link](somewhere)||
