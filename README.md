@@ -13,4 +13,4 @@ Citation
 
 |Year|Title|Challange|Task|Venue|Link|Code|
 |----|-----|---------|----|-----|----|----|
-|2020|Title Examples|System Performance|cQA|IEEE|[Link](somewhere)||
+|2020|Building interactive sentence-aware representation based on generative language model for community question answering|UXTT|cQA|Neurocomputing|[Link](somewhere)||
