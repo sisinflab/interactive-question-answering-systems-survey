@@ -19,17 +19,17 @@ Here the work from which table is extracted.
 
 **INTERACTIVE QUESTION ANSWERING**
 
-|Year|Title|Challange|Task|Venue|Link|Code|
-|----|-----|---------|----|-----|----|----|
-|2020|Building interactive sentence-aware representation based on generative language model for community question answering|SP|cQA|Neurocomputing|[Link](somewhere)||
-|2020|A Study on Multimodal and Interactive Explanations for Visual Question Answering|UXTT|VQA|SafeAI@AAAI|[Link](somewhere)||
-|2020|Enabling Interactive Answering of Procedural Questions.|SDDT|CQA|NLDB|[Link](somewhere)||
-|2020|Multi-Layer Content Interaction Through Quaternion Product For Visual Question Answering|SP|VQA|CoRR|[Link](somewhere)||
-|2019|Interactive natural language question answering over knowledge graphs|SP|FQA|Inf. Sci.|[Link](somewhere)||
-|2019|Academic Reader: An Interactive Question Answering System on Academic Literatures|SDDT|MRC-QA|AAAI|[Link](somewhere)||
-|2019|An Interactive Mechanism to Improve Question Answering Systems via Feedback|SP|FQA|CIKM|[Link](somewhere)||
-|2019|MICRON: Multigranular Interaction for Contextualizing RepresentatiON in Non-factoid Question Answering|SP|MRC-QA|IJCNLP|[Link](somewhere)||
-|2019|Interactive Language Learning by Question Answering|SP|MRC-QA|IJCLNP|[Link](somewhere)||
+|Year|Title|Author|Venue|Link|Code|
+|----|-----|------|-----|----|----|
+|2020|Building interactive sentence-aware representation based on generative language model for community question answering|Jinmeng Wu, Tingting Mu, Jeyarajan Thiyagalingam, John Yannis Goulermas|Neurocomputing|[Link](somewhere)||
+|2020|A Study on Multimodal and Interactive Explanations for Visual Question Answering|Kamran Alipour, Jürgen P. Schulze, Yi Yao, Avi Ziskind, Giedrius Burachas|SafeAI@AAAI|[Link](somewhere)||
+|2020|Enabling Interactive Answering of Procedural Questions|Anutosh Maitra, Shivam Garg, Shubhashis Sengupta|NLDB|[Link](somewhere)||
+|2020|Multi-Layer Content Interaction Through Quaternion Product For Visual Question Answering|Lei Shi, Shijie Geng, Kai Shuang, Chiori Hori, Songxiang Liu, Peng Gao, Sen Su|CoRR|[Link](somewhere)||
+|2019|Interactive natural language question answering over knowledge graphs|Weiguo Zheng, Hong Cheng, Jeffrey Xu Yu, Lei Zou, Kangfei Zhao|Inf. Sci.|[Link](somewhere)||
+|2019|Academic Reader: An Interactive Question Answering System on Academic Literatures|Yining Hong, Jialu Wang, Yuting Jia, Weinan Zhang, Xinbing Wang|AAAI|[Link](somewhere)||
+|2019|An Interactive Mechanism to Improve Question Answering Systems via Feedback|Xinbo Zhang, Lei Zou, Sen Hu|CIKM|[Link](somewhere)||
+|2019|MICRON: Multigranular Interaction for Contextualizing RepresentatiON in Non-factoid Question Answering|Hojae Han, Seungtaek Choi, Haeju Park, Seung-won Hwang|IJCNLP|[Link](somewhere)||
+|2019|Interactive Language Learning by Question Answering|Xingdi Yuan, Marc-Alexandre Côté, Jie Fu, Zhouhan Lin, Chris Pal, Yoshua Bengio, Adam Trischler|IJCLNP|[Link](somewhere)||
 
 
 ## Authors
