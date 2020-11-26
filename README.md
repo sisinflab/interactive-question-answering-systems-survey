@@ -4,7 +4,15 @@ A collection of work regarding Interactive Question Answering System standing ov
 Here the work from which table is extracted.
 
 ```
-Citation
+@article{giovanni2021survey,
+  author    = {Giovanni Maria Biancofiore and
+               Yashar Deldjoo and
+               Tommaso Di Noia and
+               Fedelucio Narducci},
+  title     = {Interactive Question Answering Systems: a Litterature Review},
+  journal   = {CoRR-arxiv},
+  year      = {2021},
+}
 ```
 
 ## Papers
