@@ -30,3 +30,12 @@ Here the work from which table is extracted.
 |2019|An Interactive Mechanism to Improve Question Answering Systems via Feedback|SP|FQA|CIKM|[Link](somewhere)||
 |2019|MICRON: Multigranular Interaction for Contextualizing RepresentatiON in Non-factoid Question Answering|SP|MRC-QA|IJCNLP|[Link](somewhere)||
 |2019|Interactive Language Learning by Question Answering|SP|MRC-QA|IJCLNP|[Link](somewhere)||
+
+
+## Authors
+
+This page is managed and maintined by:
+* Giovanni Maria Biancofiore [giovannimaria.biancofiore@poliba.it](mailto:givannimaria.biancofiore@poliba.it)
+* Yashar Deldjoo [yashar.deldjoo@poliba.it](mailto:yashar.deldjoo@poliba.it)
+* Tommaso Di Noia [tommaso.dinoia@poliba.it](mailto:tommaso.dinoia@poliba.it)
+* Fedelucio Narducci [fedelucio.narducci@poliba.it](mailto:fedelucio.narducci@poliba.it)
