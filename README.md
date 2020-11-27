@@ -48,16 +48,16 @@ Here the work from which table is extracted.
 |2017|**End-to-End Non-Factoid Question Answering with an Interactive Visualization of Neural Attention Weights**|Andreas Rücklé, Iryna Gurevych|ACL (System Demonstrations)||||
 |2017|**A Context-aware Attention Network for Interactive Question Answering**|Huayu Li, Martin Renqiang Min, Yong Ge, Asim Kadav|KDD||||
 |2017|**Enhancing Document-Based Question Answering via Interaction Between Question Words and POS Tags**|Zhipeng Xie|NLPCC||||
-|2016|**An Interactive System for Exploring Community Question Answering Forums.**|Enamul Hoque, Shafiq R. Joty, Lluís Màrquez, Alberto Barrón-Cedeño, Giovanni Da San Martino, Alessandro Moschitti, Preslav Nakov, Salvatore Romeo, Giuseppe Carenini|COLING (Demos)||||
-|2016|**An Interactive e-Government Question Answering System.**|Malte Schwarzer, Jonas Düver, Danuta Ploch, Andreas Lommatzsch|LWDA||||
-|2015|**Understanding Questions and Extracting Answers: Interactive Quiz Game Application Design.**|Volha Petukhova, Desmond Darma Putra, Alexandr Chernov, Dietrich Klakow|LTC||||
-|2014|**Interaction History Based Answer Formulation for Question Answering.**|Rivindu Perera, Parma Nand|KESW||||
-|2014|**JUST.ASK, a QA system that learns to answer new questions from previous interactions.**|Sérgio Curto, Ana Cristina Mendes, Pedro Curto, Luísa Coheur, Ângela Costa|LREC||||
-|2013|**Knowledge acquisition from user reviews for interactive question answering.**|Natalia Konstantinova|PHD Thesis||||
-|2013|**Interactive Question Answering Based on FAQ.**|Song Liu, Yixin Zhong, Fuji Ren|CCL||||
-|2013|**Interactive Document Expansion for Answer Extraction of Question Answering System.**|Jun-ichi Fukumoto, Noriaki Aburai, Ryosuke Yamanishi|KES||||
-|2012|**Connecting Question Answering and Conversational Agents - Contextualizing German Questions for Interactive Question Answering Systems.**|Ulli Waltinger, Alexa Breuing, Ipke Wachsmuth|KI||||
-|2010|**The benefits of the interaction between data warehouses and question answering.**|Antonio Ferrández, Jesús Peral|EDBT/ICDT Workshops||||
+|2016|**An Interactive System for Exploring Community Question Answering Forums**|Enamul Hoque, Shafiq R. Joty, Lluís Màrquez, Alberto Barrón-Cedeño, Giovanni Da San Martino, Alessandro Moschitti, Preslav Nakov, Salvatore Romeo, Giuseppe Carenini|COLING (Demos)||||
+|2016|**An Interactive e-Government Question Answering System**|Malte Schwarzer, Jonas Düver, Danuta Ploch, Andreas Lommatzsch|LWDA||||
+|2015|**Understanding Questions and Extracting Answers: Interactive Quiz Game Application Design**|Volha Petukhova, Desmond Darma Putra, Alexandr Chernov, Dietrich Klakow|LTC||||
+|2014|**Interaction History Based Answer Formulation for Question Answering**|Rivindu Perera, Parma Nand|KESW||||
+|2014|**JUST.ASK, a QA system that learns to answer new questions from previous interactions**|Sérgio Curto, Ana Cristina Mendes, Pedro Curto, Luísa Coheur, Ângela Costa|LREC||||
+|2013|**Knowledge acquisition from user reviews for interactive question answering**|Natalia Konstantinova|PHD Thesis||||
+|2013|**Interactive Question Answering Based on FAQ**|Song Liu, Yixin Zhong, Fuji Ren|CCL||||
+|2013|**Interactive Document Expansion for Answer Extraction of Question Answering System**|Jun-ichi Fukumoto, Noriaki Aburai, Ryosuke Yamanishi|KES||||
+|2012|**Connecting Question Answering and Conversational Agents - Contextualizing German Questions for Interactive Question Answering Systems**|Ulli Waltinger, Alexa Breuing, Ipke Wachsmuth|KI||||
+|2010|**The benefits of the interaction between data warehouses and question answering**|Antonio Ferrández, Jesús Peral|EDBT/ICDT Workshops||||
 
 
 
