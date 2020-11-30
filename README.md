@@ -84,6 +84,7 @@ Here the work from which table is extracted.
 |2010|**Natural Language Interfaces to Ontologies: Combining Syntactic Analysis and Ontology-Based Lookup through the User Interaction**|Danica Damljanovic, Milan Agatonovic, Hamish Cunningham|ESWC|[Link](Somewhere)||
 
 **BERT QUESTION ANSWERING**
+
 |Year|Title|Author|Venue|Link|Code|
 |----|-----|------|-----|----|----|
 |2020|**Attending Knowledge Facts with BERT-like Models in Question-Answering: Disappointing Results and Some Explanations**|Guillaume Le Berre, Philippe Langlais|Canadian Conference on AI|[Link](Somewhere)||
@@ -105,6 +106,53 @@ Here the work from which table is extracted.
 |2019|**Gendered Pronoun Resolution using BERT and an extractive question answering formulation**|Rakesh Chada|CoRR|[Link](Somewhere)||
 |2019|**A Study of BERT for Non-Factoid Question-Answering under Passage Length Constraints**|Yosi Mass, Haggai Roitman, Shai Erera, Or Rivlin, Bar Weiner, David Konopnicki|CoRR|[Link](Somewhere)||
 |2019|**Pruning a BERT-based Question Answering Model**|J. S. McCarley|CoRR|[Link](Somewhere)||
+
+**CONVERSATIONAL QUESTION ANSWERING**
+
+|Year|Title|Author|Venue|Link|Code|
+|----|-----|------|-----|----|----|
+|2020|**Directional attention weaving for text-grounded conversational question answering**|Ronghan Li, Zejun Jiang, Lifang Wang, Xinyu Lu, Meng Zhao|Neurocomputing|[Link](Somewhere)||
+|2020|**An Empirical Study of Content Understanding in Conversational Question Answering**|Ting-Rui Chiang, Hao-Tong Ye, Yun-Nung Chen|AAAI|[Link](Somewhere)||
+|2020|**Fluent Response Generation for Conversational Question Answering**|Ashutosh Baheti, Alan Ritter, Kevin Small|ACL|[Link](Somewhere)||
+|2020|**Learning to Identify Follow-Up Questions in Conversational Question Answering**|Souvik Kundu, Qian Lin, Hwee Tou Ng|ACL|[Link](Somewhere)||
+|2020|**Do not let the history haunt you: Mitigating Compounding Errors in Conversational Question Answering**|Angrosh Mandya, James O"Neill, Danushka Bollegala, Frans Coenen|LREC|[Link](Somewhere)||
+|2020|**Conversational Question Answering in Low Resource Scenarios: A Dataset and Case Study for Basque**|Arantxa Otegi, Aitor Gonzalez-Agirre, Jon Ander Campos, Aitor Soroa, Eneko Agirre|LREC|[Link](Somewhere)||
+|2020|**Incorporating User Feedback in Conversational Question Answering over Heterogeneous Web Sources**|Magdalena Kaiser|SIGIR|[Link](Somewhere)||
+|2020|**Conversational Question Answering over Passages by Leveraging Word Proximity Networks**|Magdalena Kaiser, Rishiraj Saha Roy, Gerhard Weikum|SIGIR|[Link](Somewhere)||
+|2020|**Open-Retrieval Conversational Question Answering**|Chen Qu, Liu Yang, Cen Chen, Minghui Qiu, W. Bruce Croft, Mohit Iyyer|SIGIR|[Link](Somewhere)||
+|2020|**Question Rewriting for Conversational Question Answering**|Svitlana Vakulenko, Shayne Longpre, Zhucheng Tu, Raviteja Anantha|CoRR|[Link](Somewhere)||
+|2019|**CoQA: A Conversational Question Answering Challenge**|Siva Reddy, Danqi Chen, Christopher D. Manning|Trans. Assoc. Comput. Linguistics|[Link](Somewhere)||
+|2019|**Learning to Align Question and Answer Utterances in Customer Service Conversation with Recurrent Pointer Networks**|Shizhu He, Kang Liu, Weiting An|AAAI|[Link](Somewhere)||
+|2019|**An Adaptive Framework for Conversational Question Answering**|Lixin Su, Jiafeng Guo, Yixing Fan, Yanyan Lan, Ruqing Zhang, Xueqi Cheng|AAAI|[Link](Somewhere)||
+|2019|**Answer-Supervised Question Reformulation for Enhancing Conversational Machine Comprehension**|Qian Li, Hui Su, Cheng Niu, Daling Wang, Zekang Li, Shi Feng, Yifei Zhang|MRQA@EMNLP|[Link](Somewhere)||
+|2019|**Look before you Hop: Conversational Question Answering over Knowledge Graphs Using Judicious Context Expansion**|Philipp Christmann, Rishiraj Saha Roy, Abdalghani Abujabal, Jyotsna Singh, Gerhard Weikum|CIKM|[Link](Somewhere)||
+|2019|**Attentive History Selection for Conversational Question Answering**|Chen Qu, Liu Yang, Minghui Qiu, Yongfeng Zhang, Cen Chen, W. Bruce Croft, Mohit Iyyer|CIKM|[Link](Somewhere)||
+|2019|**Answering Conversational Questions on Structured Data without Logical Forms**|Thomas Müller, Francesco Piccinno, Peter Shaw, Massimo Nicosia, Yasemin Altun|EMNLP/IJCNLP|[Link](Somewhere)||
+|2019|**Multi-Task Learning for Conversational Question Answering over a Large-Scale Knowledge Base**|Tao Shen, Xiubo Geng, Tao Qin, Daya Guo, Duyu Tang, Nan Duan, Guodong Long, Daxin Jiang|EMNLP/IJCNLP|[Link](Somewhere)||
+|2019|**Answer-guided and Semantic Coherent Question Generation in Open-domain Conversation**|Weichao Wang, Shi Feng, Daling Wang, Yifei Zhang|EMNLP/IJCNLP|[Link](Somewhere)||
+|2019|**Evaluating Co-reference Chains Based Conversation History in Conversational Question Answering**|Angrosh Mandya, Danushka Bollegala, Frans Coenen|PACLING|[Link](Somewhere)||
+|2019|**Conversational AI : Open Domain Question Answering and Commonsense Reasoning**|Kinjal Basu|ICLP|[Link](Somewhere)||
+|2019|**Technical report on Conversational Question Answering**|Ying Ju, Fubang Zhao, Shijie Chen, Bowen Zheng, Xuefeng Yang, Yunfeng Liu|CoRR|[Link](Somewhere)||
+|2019|**Multilingual Question Answering from Formatted Text applied to Conversational Agents**|Wissam Siblini, Charlotte Pasqual, Axel Lavielle, Cyril Cauchois|CoRR|[Link](Somewhere)||
+|2018|**Toward Data-Driven Tutorial Question Answering with Deep Learning Conversational Models**|Mayank Kulkarni, Kristy Boyer|BEA@NAACL-HLT|[Link](Somewhere)||
+|2018|**TraceLab Components for Generating Speech Act Types in Developer Question/Answer Conversations**|Rrezarta Krasniqi, Collin McMillan|ICSME|[Link](Somewhere)||
+|2018|**Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base**|Daya Guo, Duyu Tang, Nan Duan, Ming Zhou, Jian Yin|NeurIPS|[Link](Somewhere)||
+|2018|**Detecting speech act types in developer question/answer conversations during bug repair**|Andrew Wood, Paige Rodeghero, Ameer Armaly, Collin McMillan|ESEC/SIGSOFT FSE|[Link](Somewhere)||
+|2018|**Identifying Informational vs. Conversational Questions on Community Question Answering Archives**|Ido Guy, Victor Makarenkov, Niva Hazon, Lior Rokach, Bracha Shapira|WSDM|[Link](Somewhere)||
+|2018|**Question-Answer Selection in User to User Marketplace Conversations**|Girish Kumar, Matthew Henderson, Shannon Chan, Hoang Nguyen, Lucas Ngoo|CoRR|[Link](Somewhere)||
+|2018|**SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering**|Chenguang Zhu, Michael Zeng, Xuedong Huang|CoRR|[Link](Somewhere)||
+|2017|**Single turn Chinese emotional conversation generation based on information retrieval and question answering**|Zhiheng Zhou, Man Lan, Yuanbin Wu, Jun Lang|IALP|[Link](Somewhere)||
+|2017|**Evaluating Natural Language Understanding Services for Conversational Question Answering Systems**|Daniel Braun, Adrian Hernandez-Mendez, Florian Matthes, Manfred Langen|SIGdial|[Link](Somewhere)||
+|2016|**Question answering in conversations: Query refinement using contextual and semantic information**|Maryam Habibi, Parvaz Mahdabi, Andrei Popescu-Belis|Data Knowl. Eng.|[Link](Somewhere)||
+|2016|**Evaluation of Question-Answering System About Conversational Agent"s Personality**|Hiroaki Sugiyama, Toyomi Meguro, Ryuichiro Higashinaka|IWSDS|[Link](Somewhere)||
+|2016|**Neural Contextual Conversation Learning with Labeled Question-Answering Pairs**|Kun Xiong, Anqi Cui, Zefeng Zhang, Ming Li|CoRR|[Link](Somewhere)||
+|2012|**Detection of imperative and declarative question-answer pairs in email conversations**|Helen Kwong, Neil Yorke-Smith|AI|[Link](Somewhere)||
+|2012|**Connecting Question Answering and Conversational Agents - Contextualizing German Questions for Interactive Question Answering Systems**|Ulli Waltinger, Alexa Breuing, Ipke Wachsmuth|KI|[Link](Somewhere)||
+|2012|**Mixed-initiative conversational system using question-answer pairs mined from the web**|Wilson Wong, Lawrence Cavedon, John Thangarajah, Lin Padgham|CIKM|[Link](Somewhere)||
+|2012|**Strategies for Mixed-Initiative Conversation Management using Question-Answer Pairs**|Wilson Wong, Lawrence Cavedon, John Thangarajah, Lin Padgham|COLING|[Link](Somewhere)||
+|2011|**Health conversational system based on contextual matching of community-driven question-answer pairs**|Wilson Wong, John Thangarajah, Lin Padgham|CIKM|[Link](Somewhere)||
+
+
 
 ## Authors
 
