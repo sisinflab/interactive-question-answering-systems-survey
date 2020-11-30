@@ -63,7 +63,14 @@ Here the work from which table is extracted.
 
 |Year|Title|Author|Venue|Link|Code|
 |----|-----|------|-----|----|----|
-||**|||[Link](Somewhere)||
+|2020|**Explaining Question Answering Models through Text Generation**|Veronica Latcinnik, Jonathan Berant|CoRR|[Link](Somewhere)||
+|2019|**Integrating Non-monotonic Logical Reasoning and Inductive Learning With Deep Learning for Explainable Visual Question Answering**|Heather Riley, Mohan Sridharan|Front. Robotics and AI|[Link](Somewhere)||
+|2019|**Memory Graph Networks for Explainable Memory-grounded Question Answering**|Seungwhan Moon, Pararth Shah, Anuj Kumar, Rajen Subba|CoNLL|[Link](Somewhere)||
+|2019|**Technical, Hard and Explainable Question Answering (THE-QA)**|Shailaja Sampat|IJCAI|[Link](Somewhere)||
+|2019|**Multi-modal Knowledge-aware Hierarchical Attention Network for Explainable Medical Question Answering**|Yingying Zhang, Shengsheng Qian, Quan Fang, Changsheng Xu|ACM Multimedia|[Link](Somewhere)||
+|2019|**Learning to Explain: Answering Why-Questions via Rephrasing**|Allen Nie, Erin D. Bennett, Noah D. Goodman|CoRR|[Link](Somewhere)||
+|2018|**VQA-E: Explaining, Elaborating, and Enhancing Your Answers for Visual Questions**|Qing Li, Qingyi Tao, Shafiq R. Joty, Jianfei Cai, Jiebo Luo|ECCV|[Link](Somewhere)||
+|2018|**Tell-and-Answer: Towards Explainable Visual Question Answering using Attributes and Captions**|Qing Li, Jianlong Fu, Dongfei Yu, Tao Mei, Jiebo Luo|EMNLP|[Link](Somewhere)||
 
 ## Authors
 
