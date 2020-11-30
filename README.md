@@ -72,6 +72,17 @@ Here the work from which table is extracted.
 |2018|**VQA-E: Explaining, Elaborating, and Enhancing Your Answers for Visual Questions**|Qing Li, Qingyi Tao, Shafiq R. Joty, Jianfei Cai, Jiebo Luo|ECCV|[Link](Somewhere)||
 |2018|**Tell-and-Answer: Towards Explainable Visual Question Answering using Attributes and Captions**|Qing Li, Jianlong Fu, Dongfei Yu, Tao Mei, Jiebo Luo|EMNLP|[Link](Somewhere)||
 
+**INTERACTIVE NATURAL LANGUAGE INTERFACE**
+
+|Year|Title|Author|Venue|Link|Code|
+|----|-----|------|-----|----|----|
+|2018|**Natural Language Interfaces with Fine-Grained User Interaction: A Case Study on Web APIs**|Yu Su, Ahmed Hassan Awadallah, Miaosen Wang, Ryen W. White|SIGIR|[Link](Somewhere)||
+|2018|**NEURON: An Interactive Natural Language Interface for Understanding Query Execution Plans in RDBMS**|Siyuan Liu, Sourav S. Bhowmick, Wanlu Zhang, Shu Wang, Wanyi Huang|CoRR|[Link](Somewhere)||
+|2017|**Agent-based Reconfigurable Natural Language Interface to Robots - Human-Agent Interaction using Task-specific Controlled Natural Languages**|Tamás Mészáros, Tadeusz P. Dobrowiecki|ICAART|[Link](Somewhere)||
+|2014|**Constructing an Interactive Natural Language Interface for Relational Databases**|Fei Li, H. V. Jagadish|VLDB|[Link](Somewhere)||
+|2012|**Interacting with Data Warehouse by Using a Natural Language Interface**|M. Asif Naeem, Saif Ullah, Imran Sarwar Bajwa|NLDB|[Link](Somewhere)||
+|2010|**Natural Language Interfaces to Ontologies: Combining Syntactic Analysis and Ontology-Based Lookup through the User Interaction**|Danica Damljanovic, Milan Agatonovic, Hamish Cunningham|ESWC|[Link](Somewhere)||
+
 ## Authors
 
 This page is managed and maintined by:
