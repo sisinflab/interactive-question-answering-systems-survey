@@ -83,6 +83,29 @@ Here the work from which table is extracted.
 |2012|**Interacting with Data Warehouse by Using a Natural Language Interface**|M. Asif Naeem, Saif Ullah, Imran Sarwar Bajwa|NLDB|[Link](Somewhere)||
 |2010|**Natural Language Interfaces to Ontologies: Combining Syntactic Analysis and Ontology-Based Lookup through the User Interaction**|Danica Damljanovic, Milan Agatonovic, Hamish Cunningham|ESWC|[Link](Somewhere)||
 
+**BERT QUESTION ANSWERING**
+|Year|Title|Author|Venue|Link|Code|
+|----|-----|------|-----|----|----|
+|2020|**Attending Knowledge Facts with BERT-like Models in Question-Answering: Disappointing Results and Some Explanations**|Guillaume Le Berre, Philippe Langlais|Canadian Conference on AI|[Link](Somewhere)||
+|2020|**Investigating Query Expansion and Coreference Resolution in Question Answering on BERT**|Santanu Bhattacharjee, Rejwanul Haque, Gideon Maillette de Buy Wenniger, Andy Way|NLDB|[Link](Somewhere)||
+|2020|**BERT Representations for Video Question Answering**|Zekun Yang, Noa Garcia, Chenhui Chu, Mayu Otani, Yuta Nakashima, Haruo Takemura|WACV|[Link](Somewhere)||
+|2020|**Exploring BERT Parameter Efficiency on the Stanford Question Answering Dataset v2.0**|Eric Hulburd|CoRR|[Link](Somewhere)||
+|2020|**Support-BERT: Predicting Quality of Question-Answer Pairs in MSDN using Deep Bidirectional Transformer**|Bhaskar Sen, Nikhil Gopal, Xinwei Xue|CoRR|[Link](Somewhere)||
+|2020|**An Audio-enriched BERT-based Framework for Spoken Multiple-choice Question Answering**|Chia-Chih Kuo, Shang-Bao Luo, Kuan-Yu Chen|CoRR|[Link](Somewhere)||
+|2019|**Question Answering Using Hierarchical Attention on Top of BERT Features**|Reham A. Osama, Nagwa M. El-Makky, Marwan Torki|MRQA@EMNLP|[Link](Somewhere)||
+|2019|**How Does BERT Answer Questions?: A Layer-Wise Analysis of Transformer Representations**|Betty van Aken, Benjamin Winter, Alexander Löser, Felix A. Gers|CIKM|[Link](Somewhere)||
+|2019|**BB-KBQA: BERT-Based Knowledge Base Question Answering**|Aiting Liu, Ziqi Huang, Hengtong Lu, Xiaojie Wang, Caixia Yuan|CCL|[Link](Somewhere)||
+|2019|**Multi-passage BERT: A Globally Normalized BERT Model for Open-domain Question Answering**|Zhiguo Wang, Patrick Ng, Xiaofei Ma, Ramesh Nallapati, Bing Xiang|IJCNLP|[Link](Somewhere)||
+|2019|**Incorporate User Representation for Personal Question Answer Selection Using Siamese Network**|Zihao Qi, Dario Bertero, Ian D. Wood, Pascale Fung|ICASSP|[Link](Somewhere)||
+|2019|**End-to-End Open-Domain Question Answering with BERTserini**|Wei Yang, Yuqing Xie, Aileen Lin, Xingyu Li, Luchen Tan, Kun Xiong, Ming Li, Jimmy Lin|NAACL-HLT (Demonstrations)|[Link](Somewhere)||
+|2019|**Real Life Application of a Question Answering System Using BERT Language Model**|Francesca Alloatti, Luigi Di Caro, Gianpiero Sportelli|SIGdial|[Link](Somewhere)||
+|2019|**BERT with History Answer Embedding for Conversational Question Answering**|Chen Qu, Liu Yang, Minghui Qiu, W. Bruce Croft, Yongfeng Zhang, Mohit Iyyer|SIGIR|[Link](Somewhere)||
+|2019|**FAQ Retrieval using Query-Question Similarity and BERT-Based Query-Answer Relevance**|Wataru Sakata, Tomohide Shibata, Ribeka Tanaka, Sadao Kurohashi|SIGIR|[Link](Somewhere)||
+|2019|**Data Augmentation for BERT Fine-Tuning in Open-Domain Question Answering**|Wei Yang, Yuqing Xie, Luchen Tan, Kun Xiong, Ming Li, Jimmy Lin|CoRR|[Link](Somewhere)||
+|2019|**Gendered Pronoun Resolution using BERT and an extractive question answering formulation**|Rakesh Chada|CoRR|[Link](Somewhere)||
+|2019|**A Study of BERT for Non-Factoid Question-Answering under Passage Length Constraints**|Yosi Mass, Haggai Roitman, Shai Erera, Or Rivlin, Bar Weiner, David Konopnicki|CoRR|[Link](Somewhere)||
+|2019|**Pruning a BERT-based Question Answering Model**|J. S. McCarley|CoRR|[Link](Somewhere)||
+
 ## Authors
 
 This page is managed and maintined by:
