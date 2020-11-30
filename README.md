@@ -152,7 +152,17 @@ Here the work from which table is extracted.
 |2012|**Strategies for Mixed-Initiative Conversation Management using Question-Answer Pairs**|Wilson Wong, Lawrence Cavedon, John Thangarajah, Lin Padgham|COLING|[Link](Somewhere)||
 |2011|**Health conversational system based on contextual matching of community-driven question-answer pairs**|Wilson Wong, John Thangarajah, Lin Padgham|CIKM|[Link](Somewhere)||
 
+**QUESTION ANSWERING CLARIFICATION**
 
+|Year|Title|Author|Venue|Link|Code|
+|----|-----|------|-----|----|----|
+|2019|**Asking Clarification Questions in Knowledge-Based Question Answering**|Jingjing Xu, Yuechen Wang, Duyu Tang, Nan Duan, Pengcheng Yang, Qi Zeng, Ming Zhou, Xu Sun|EMNLP/IJCNLP|[Link](Somewhere)||
+
+**KB-QA**
+
+|Year|Title|Author|Venue|Link|Code|
+|----|-----|------|-----|----|----|
+|2020|**PERQ: Predicting, Explaining, and Rectifying Failed Questions in KB-QA Systems**|Zhiyong Wu, Ben Kao, Tien-Hsuan Wu, Pengcheng Yin, Qun Liu|WSDM|[Link](Somewhere)||
 
 ## Authors
 
