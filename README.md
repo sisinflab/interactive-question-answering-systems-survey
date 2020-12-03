@@ -9,7 +9,7 @@ Here the work from which table is extracted.
                Yashar Deldjoo and
                Tommaso Di Noia and
                Fedelucio Narducci},
-  title     = {Interactive Question Answering Systems: a Litterature Review},
+  title     = {Interactive Question Answering Systems: a Literature Review},
   journal   = {CoRR-arxiv},
   year      = {2021},
 }
