@@ -8,6 +8,7 @@ Here the work from which table is extracted.
   author    = {Giovanni Maria Biancofiore and
                Yashar Deldjoo and
                Tommaso Di Noia and
+               Eugenio Di Sciascio and
                Fedelucio Narducci},
   title     = {Interactive Question Answering Systems: a Literature Review},
   journal   = {CoRR-arxiv},
