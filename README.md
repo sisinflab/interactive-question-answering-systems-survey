@@ -1,10 +1,10 @@
 # Interactive Question Answering Systems: Literature Review
-A collection of work regarding Interactive Question Answering System standing over 10 years. This list will be periodically updated.
+A collection of work regarding _Interactive Question Answering Systems_ standing over 10 years. This list will be periodically updated.
 
-Here the work from which table is extracted.
+Please contact us if your work is not in the list. Let us know if your recent work is not in the list, we will be happy to include it! Here the work from which table is extracted.
 
 ```
-@article{giovanni2021survey,
+@article{giovanni2022survey,
   author    = {Giovanni Maria Biancofiore and
                Yashar Deldjoo and
                Tommaso Di Noia and
@@ -17,6 +17,27 @@ Here the work from which table is extracted.
 ```
 
 ## Papers
+
+In this Section, we provide the complete list of published work analyzed in our survey. Each table refers to _Question Answering Systems_ (QASs) that target a distinct task. The tables further detail the publication year of the work, its title and the link to the orginial paper, the list of authors involved in that work, the venue and links to its code/dataset if available.
+
+### Open-Goal QA
+
+The _open-goal_ QASs are classified into _commmunity_ QASs (cQASs) and _classifier-based_ QASs (CB QASs).
+
+**COMMUNITY QUESTION-ANSWERING**
+
+|Year|Title|Author|Venue|Code|Dataset|
+|:--:|:---:|:----:|:---:|:--:|:-----:|
+|2020|[**Building interactive sentence-aware representation based on generative language model for community question answering**](https://doi.org/10.1016/j.neucom.2019.12.107)|Jinmeng Wu, Tingting Mu, Jeyarajan Thiyagalingam, and John Yannis Goulermas|Neurocomputing|-|[TREC](https://trec.nist.gov/data/qamain.html), [YH](http://webscope.sandbox.yahoo.com/), [StEx](https://law.stackexchange.com/), [WikiQA](https://www.microsoft.com/en-us/download/details.aspx?id=52419)|
+|2020|[**Support-BERT: Predicting Quality of Question-Answer Pairs in MSDN using Deep Bidirectional Transformer**](https://doi.org/10.48550/arXiv.2005.08294)|Bhaskar Sen, Nikhil Gopal, and Xinwei Xue|CoRR|-|MDN|
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
 
 **INTERACTIVE QUESTION ANSWERING**
 
