@@ -11,7 +11,7 @@ Here the work from which table is extracted.
                Fedelucio Narducci},
   title     = {Interactive Question Answering Systems: a Literature Review},
   journal   = {CoRR-arxiv},
-  year      = {2021},
+  year      = {2022},
 }
 ```
 
