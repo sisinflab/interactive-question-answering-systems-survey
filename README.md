@@ -30,6 +30,26 @@ The _open-goal_ QASs are classified into _commmunity_ QASs (cQASs) and _classifi
 |:--:|:---:|:----:|:---:|:--:|:-----:|
 |2020|[**Building interactive sentence-aware representation based on generative language model for community question answering**](https://doi.org/10.1016/j.neucom.2019.12.107)|Jinmeng Wu, Tingting Mu, Jeyarajan Thiyagalingam, and John Yannis Goulermas|Neurocomputing|-|[TREC](https://trec.nist.gov/data/qamain.html), [YH](http://webscope.sandbox.yahoo.com/), [StEx](https://law.stackexchange.com/), [WikiQA](https://www.microsoft.com/en-us/download/details.aspx?id=52419)|
 |2020|[**Support-BERT: Predicting Quality of Question-Answer Pairs in MSDN using Deep Bidirectional Transformer**](https://doi.org/10.48550/arXiv.2005.08294)|Bhaskar Sen, Nikhil Gopal, and Xinwei Xue|CoRR|-|MDN|
+|2019|[**Multi-modal Knowledge-aware Hierarchical Attention Network for Explainable Medical Question Answering**](https://doi.org/10.1145/3343031.3351033)|Yingying Zhang, Shengsheng Qian, Quan Fang, and Changsheng Xu|ACM Multimedia|-|-|
+|2018|[**Attentive Interactive Convolutional Matching for Community Question Answering in Social Multimedia**](https://doi.org/10.1145/3240508.3240626)|Jun Hu, Shengsheng Qian, Quan Fang, and Changsheng Xu|ACM Multimedia|[GitHub](https://github.com/briefcopy/MMAICM)|[Quora](https://github.com/briefcopy/MMAICM/tree/master/datasets/quora), [Zhihu](https://github.com/briefcopy/MMAICM/tree/master/datasets/zhihu)|
+|2018|[**Toward Data-Driven Tutorial Question Answering with Deep Learning Conversational Models**](https://doi.org/10.18653/v1/w18-0532)|Mayank Kulkarni, and Kristy Elizabeth Boyer|BEA@NAACL-HTL|-|[StEx](https://law.stackexchange.com/)|
+|2018|[**Multi-Scale Attentive Interaction Networks for Chinese Medical Question Answer Selection**](https://doi.org/10.1109/ACCESS.2018.2883637)|Sheng Zhang, Xin Zhang, Hui Wang, Lixiang Guo, and Shanshan Liu|IEEE Access|-|[cMedQA 2.0](https://github.com/zhangsheng93/cMedQA2)|
+|2017|[**Temporal Interaction and Causal Influence in Community-Based Question Answering**](https://doi.org/10.1109/TKDE.2017.2720737)|Fei Wu, Xinyu Duan, Jun Xiao, Zhou Zhao, Siliang Tang, Yin Zhang, and Yueting Zhuang|IEEE Transaction on Knowledge and Data Engineering|-|[SemEval-2015](https://alt.qcri.org/semeval2015/task3/), [Baiduzhidao](https://zhidao.baidu.com/)|
+|2017|[**End-to-End Non-Factoid Question Answering with an Interactive Visualization of Neural Attention Weights**](https://doi.org/10.18653/v1/P17-4004)|Andreas Rücklé, and Iryna Gurevych|ACL|[GitHub](https://github.com/UKPLab/acl2017-non-factoid-qa)|[Insurance QA](https://www.bankofamerica.com/salesservices/deposits/resources/personal-schedule-fees/), [StEx](https://law.stackexchange.com/)|
+|2017|[**Single turn Chinese emotional conversation generation based on information retrieval and question answering**](https://doi.org/10.1109/IALP.2017.8300556)|Zhiheng Zhou, Man Lan, Yuanbin Wu, and Jun Lang|IALP|-|-|
+|2016|[**Neural Contextual Conversation Learning with Labeled Question-Answering Pairs**](http://arxiv.org/abs/1607.05809)|Kun Xiong, Anqi Cui, Zefeng Zhang, and Ming Li|CoRR|-|-|
+|2012|[**Strategies for Mixed-Initiative Conversation Management using Question-Answer Pairs**](https://aclanthology.org/C12-1172/)|Wilson Wong, Lawrence Cavedon, John Thangarajah, and Lin Padgham|COLING|-|-|
+
+**CLASSIFIER-BASED QUESTION-ANSWERING**
+
+|Year|Title|Author|Venue|Code|Dataset|
+|:--:|:---:|:----:|:---:|:--:|:-----:|
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
 |||||||
 |||||||
 |||||||
