@@ -66,10 +66,10 @@ The _factoid_ QASs are classified into _machine reading comprehension_ QASs (MRC
 
 |Year|Title|Author|Venue|Code|Dataset|
 |:--:|:---:|:----:|:---:|:--:|:-----:|
-|||||||
-|||||||
-|||||||
-|||||||
+|2019|[**MICRON: Multigranular Interaction for Contextualizing RepresentatiON in Non-factoid Question Answering**](https://doi.org/10.18653/v1/D19-1601)|Hojae Han, Seungtaek Choi, Haeju Park, and Seung-won Hwang|EMNLP/IJCNLP|[GitHub](https://github.com/stovecat/MICRON)|[WikiPassageQA](https://ciir.cs.umass.edu/downloads/wikipassageqa/), [InsuranceQA](https://github.com/shuzi/insuranceQA)|
+|2019|[**Data Augmentation for BERT Fine-Tuning in Open-Domain Question Answering**](http://arxiv.org/abs/1904.06652)|Wei Yang, Yuqing Xie, Luchen Tan, Kun Xiong, Ming Li, and Jimmy Lin|CoRR||[SQuAD 1.1](https://rajpurkar.github.io/SQuAD-explorer/), [TriviaQA](http://nlp.cs.washington.edu/triviaqa/)|
+|2019|[**Interactive Language Learning by Question Answering**](https://doi.org/10.18653/v1/D19-1280)|Xingdi Yuan, Marc-Alexandre Côté, Jie Fu, Zhouhan Lin, Chris Pal, Yoshua Bengio, and Adam Trischler|EMNLP/IJCNLP|[GitHub](https://github.com/xingdi-eric-yuan/qait_public)|[QAit](https://github.com/xingdi-eric-yuan/qait_public)|
+|2019|[**Gendered Pronoun Resolution using BERT and an extractive question answering formulation**](http://arxiv.org/abs/1906.03695)|Rakesh Chada|CoRR|[GitHub](https://github.com/rakeshchada/corefqa)|[GAP Coreference](http://goo.gl/language/gap-coreference)|
 |||||||
 |||||||
 |||||||
