@@ -1,7 +1,9 @@
 # Interactive Question Answering Systems: Literature Review
 A collection of work regarding _Interactive Question Answering Systems_ standing over 10 years. This list will be periodically updated.
 
-![General architecture of interactive Question-Answering systems](./assets/IQA_general_architecture.webp)
+<p align="center">
+  <img width="600" height="282" src="https://raw.githubusercontent.com/sisinflab/interactive-question-answering-systems-survey/master/assets/IQA_general_architecture.webp">
+</p>
 
 The above figure depicts the general architecture of _interactive question-answering_ systems designed in this work.
 
