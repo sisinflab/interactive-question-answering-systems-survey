@@ -27,13 +27,13 @@ Let us know if your recent work is not in the list, we will be happy to include 
 In this Section, we provide the complete list of published work analyzed in our survey. Each table refers to _Question Answering Systems_ (QASs) that target a distinct task. The tables further detail the publication year of the work, its title and the link to the orginial paper, the list of authors involved in that work, the venue and links to its code/dataset if available. The overall section is organized as follows:
 
 - [Open-goal QASs](#open-goal-qa):
-  - [Community QASs](https://github.com/sisinflab/interactive-question-answering-systems-survey/blob/master/README.md#community-question-answering);
-  - [Classifier-Based QASs](https://github.com/sisinflab/interactive-question-answering-systems-survey/blob/master/README.md#classifier-based-question-answering).
-- [Factoid QASs](https://github.com/sisinflab/interactive-question-answering-systems-survey/blob/master/README.md#factoid-qa):
-  - [Machine Reading Comprehension QASs](https://github.com/sisinflab/interactive-question-answering-systems-survey/blob/master/README.md#machine-reading-comprehension-question-answering);
-  - [Knowledge Base QASs](https://github.com/sisinflab/interactive-question-answering-systems-survey/blob/master/README.md#knowledge-base-question-answering).
-- [Visual QASs](https://github.com/sisinflab/interactive-question-answering-systems-survey/blob/master/README.md#visual-qa):
-  - [Visual QASs](https://github.com/sisinflab/interactive-question-answering-systems-survey/blob/master/README.md#visual-question-answering).
+  - [Community QASs](#community-question-answering);
+  - [Classifier-Based QASs](#classifier-based-question-answering).
+- [Factoid QASs](#factoid-qa):
+  - [Machine Reading Comprehension QASs](#machine-reading-comprehension-question-answering);
+  - [Knowledge Base QASs](#knowledge-base-question-answering).
+- [Visual QASs](#visual-qa):
+  - [Visual QASs](#visual-question-answering).
 
 ### Open-Goal QA
 
