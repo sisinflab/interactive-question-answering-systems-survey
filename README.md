@@ -26,7 +26,7 @@ Let us know if your recent work is not in the list, we will be happy to include 
 
 In this Section, we provide the complete list of published work analyzed in our survey. Each table refers to _Question Answering Systems_ (QASs) that target a distinct task. The tables further detail the publication year of the work, its title and the link to the orginial paper, the list of authors involved in that work, the venue and links to its code/dataset if available. The overall section is organized as follows:
 
-- [Open-goal QASs](https://github.com/sisinflab/interactive-question-answering-systems-survey/blob/master/README.md#open-goal-qa):
+- [Open-goal QASs](#open-goal-qa):
   - [Community QASs](https://github.com/sisinflab/interactive-question-answering-systems-survey/blob/master/README.md#community-question-answering);
   - [Classifier-Based QASs](https://github.com/sisinflab/interactive-question-answering-systems-survey/blob/master/README.md#classifier-based-question-answering).
 - [Factoid QASs](https://github.com/sisinflab/interactive-question-answering-systems-survey/blob/master/README.md#factoid-qa):
