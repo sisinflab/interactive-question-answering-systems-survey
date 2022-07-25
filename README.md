@@ -39,7 +39,7 @@ In this Section, we provide the complete list of published work analyzed in our 
 
 The _open-goal_ QASs are classified into _commmunity_ QASs (cQASs) and _classifier-based_ QASs (CB QASs).
 
-##### COMMUNITY QUESTION-ANSWERING
+#### COMMUNITY QUESTION-ANSWERING
 
 |Year|Title|Author|Venue|Code|Dataset|
 |:--:|:---:|:----:|:---:|:--:|:-----:|
@@ -55,7 +55,7 @@ The _open-goal_ QASs are classified into _commmunity_ QASs (cQASs) and _classifi
 |2016|[**Neural Contextual Conversation Learning with Labeled Question-Answering Pairs**](http://arxiv.org/abs/1607.05809)|Kun Xiong, Anqi Cui, Zefeng Zhang, and Ming Li|CoRR|-|-|
 |2012|[**Strategies for Mixed-Initiative Conversation Management using Question-Answer Pairs**](https://aclanthology.org/C12-1172/)|Wilson Wong, Lawrence Cavedon, John Thangarajah, and Lin Padgham|COLING|-|-|
 
-##### CLASSIFIER-BASED QUESTION-ANSWERING
+#### CLASSIFIER-BASED QUESTION-ANSWERING
 
 |Year|Title|Author|Venue|Code|Dataset|
 |:--:|:---:|:----:|:---:|:--:|:-----:|
@@ -77,7 +77,7 @@ The _open-goal_ QASs are classified into _commmunity_ QASs (cQASs) and _classifi
 
 The _factoid_ QASs are classified into _machine reading comprehension_ QASs (MRC QASs) and _knowledge base_ QASs (KB QASs).
 
-##### MACHINE READING COMPREHENSION QUESTION-ANSWERING
+#### MACHINE READING COMPREHENSION QUESTION-ANSWERING
 
 |Year|Title|Author|Venue|Code|Dataset|
 |:--:|:---:|:----:|:---:|:--:|:-----:|
@@ -119,8 +119,7 @@ The _factoid_ QASs are classified into _machine reading comprehension_ QASs (MRC
 |2017|[**Enhancing Document-Based Question Answering via Interaction Between Question Words and POS Tags**](https://doi.org/10.1007/978-3-319-73618-1_12)|Zhipeng Xie|NLPCC|-|[NLPCC shared task](https://github.com/didi/ChineseNLP/blob/master/docs/question_answering.md)|
 |2016|[**An Interactive e-Government Question Answering System**](http://ceur-ws.org/Vol-1670/paper-26.pdf)|Malte Schwarzer, Jonas Düver, Danuta Ploch, and Andreas Lommatzsch|LWDA|-|-|
 
-
-##### KNOWLEDGE BASE QUESTION-ANSWERING
+#### KNOWLEDGE BASE QUESTION-ANSWERING
 
 |Year|Title|Author|Venue|Code|Dataset|
 |:--:|:---:|:----:|:---:|:--:|:-----:|
@@ -148,7 +147,7 @@ The _factoid_ QASs are classified into _machine reading comprehension_ QASs (MRC
 
 The _visual_ QASs are _multi-modal_ QASs that deal with _images_ and _videos_.
 
-##### VISUAL QUESTION-ANSWERING
+#### VISUAL QUESTION-ANSWERING
 
 |Year|Title|Author|Venue|Code|Dataset|
 |:--:|:---:|:----:|:---:|:--:|:-----:|
