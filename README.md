@@ -70,26 +70,26 @@ The _factoid_ QASs are classified into _machine reading comprehension_ QASs (MRC
 |2019|[**Data Augmentation for BERT Fine-Tuning in Open-Domain Question Answering**](http://arxiv.org/abs/1904.06652)|Wei Yang, Yuqing Xie, Luchen Tan, Kun Xiong, Ming Li, and Jimmy Lin|CoRR||[SQuAD 1.1](https://rajpurkar.github.io/SQuAD-explorer/), [TriviaQA](http://nlp.cs.washington.edu/triviaqa/)|
 |2019|[**Interactive Language Learning by Question Answering**](https://doi.org/10.18653/v1/D19-1280)|Xingdi Yuan, Marc-Alexandre Côté, Jie Fu, Zhouhan Lin, Chris Pal, Yoshua Bengio, and Adam Trischler|EMNLP/IJCNLP|[GitHub](https://github.com/xingdi-eric-yuan/qait_public)|[QAit](https://github.com/xingdi-eric-yuan/qait_public)|
 |2019|[**Gendered Pronoun Resolution using BERT and an extractive question answering formulation**](http://arxiv.org/abs/1906.03695)|Rakesh Chada|CoRR|[GitHub](https://github.com/rakeshchada/corefqa)|[GAP Coreference](http://goo.gl/language/gap-coreference)|
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
+|2019|[**Multi-step Retriever-Reader Interaction for Scalable Open-domain Question Answering**](https://openreview.net/forum?id=HkfPSh05K7)|Rajarshi Das, Shehzaad Dhuliawala, Manzil Zaheer, and Andrew McCallum|ICLR|[Github](https://github.com/rajarshd/Multi-Step-Reasoning)|[TriviaQA](http://nlp.cs.washington.edu/triviaqa/), [SearchQA](https://github.com/nyu-dl/dl4ir-searchQA), [Quasar-T](https://github.com/bdhingra/quasar), [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)|
+|2019|[**A Study of BERT for Non-Factoid Question-Answering under Passage Length Constraints**](http://arxiv.org/abs/1908.06780)|Yosi Mass, Haggai Roitman, Shai Erera, Or Rivlin, Bar Weiner, and David Konopnicki|CoRR|-|[WikiPassageQA](https://ciir.cs.umass.edu/downloads/wikipassageqa/)|
+|2017|[**A Context-aware Attention Network for Interactive Question Answering**](https://doi.org/10.1145/3097983.3098115)|Huayu Li, Martin Renqiang Min, Yong Ge, and Asim Kadav|KDD|-|[bAbI](https://research.facebook.com/downloads/babi/), [ibAbI](http://www.cs.toronto.edu/pub/cuty/IQAKDD2017/)|
+|2019|[**Pruning a BERT-based Question Answering Model**](http://arxiv.org/abs/1910.06360)|CoRR|J. S. McCarley|-|[SQuAD 2.0](https://rajpurkar.github.io/SQuAD-explorer/), [Natural Questions](https://ai.google.com/research/NaturalQuestions)|
+|2017|[**Enhancing Document-Based Question Answering via Interaction Between Question Words and POS Tags**](https://doi.org/10.1007/978-3-319-73618-1_12)|Zhipeng Xie|NLPCC|-|[NLPCC shared task](https://github.com/didi/ChineseNLP/blob/master/docs/question_answering.md)|
+|2020|[**Directional attention weaving for text-grounded conversational question answering**](https://doi.org/10.1016/j.neucom.2020.01.056)|Ronghan Li, Zejun Jiang, Lifang Wang, Xinyu Lu, and Meng Zhao|Neurocomputing|-|[CoQA](https://stanfordnlp.github.io/coqa/)|
+|2020|[**Investigating Query Expansion and Coreference Resolution in Question Answering on BERT**](https://doi.org/10.1007/978-3-030-51310-8_5)|Santanu Bhattacharjee, Rejwanul Haque, Gideon Maillette de Buy Wenniger, and Andy Way|NLDB|-|[SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)|
+|2020|[**An Audio-Enriched BERT-Based Framework for Spoken Multiple-Choice Question Answering**](https://doi.org/10.21437/Interspeech.2020-1763)|Chia-Chih Kuo, Shang-Bao Luo, and Kuan-Yu Chen|INTERSPEECH|-|FGC|
+|2020|[**Learning to Identify Follow-Up Questions in Conversational Question Answering**](https://doi.org/10.18653/v1/2020.acl-main.90)|Souvik Kundu, Qian Lin, and Hwee Tou Ng|ACL|[GitHub](https://github.com/nusnlp/LIF)|[LIF](https://github.com/nusnlp/LIF)|
+|2019|[**Question Answering Using Hierarchical Attention on Top of BERT Features**](https://doi.org/10.18653/v1/D19-5825)|Reham A. Osama, Nagwa M. El-Makky, and Marwan Torki|MRQA@EMNLP|-|MRQA 2019 shared task|
+|2019|[**Open-Retrieval Conversational Question Answering**](https://doi.org/10.1145/3397271.3401110)|Chen Qu, Liu Yang, Cen Chen, Minghui Qiu, W. Bruce Croft, and Mohit Iyyer|SIGIR|[GitHub](https://github.com/prdwb/orconvqa-release)|[OR-QuAC](https://ciir.cs.umass.edu/downloads/ORConvQA/)|
+|2019|[**Multi-passage BERT: A Globally Normalized BERT Model for Open-domain Question Answering**](https://doi.org/10.18653/v1/D19-1599)|Zhiguo Wang, Patrick Ng, Xiaofei Ma, Ramesh Nallapati, and Bing Xiang|EMNLP/IJCNLP|-|OpenSQuAD, [TriviaQA](http://nlp.cs.washington.edu/triviaqa/), [QuasarT](https://github.com/bdhingra/quasar), [SearchQA](https://github.com/nyu-dl/dl4ir-searchQA)|
+|2019|[**An Adaptive Framework for Conversational Question Answering**](https://doi.org/10.1609/aaai.v33i01.330110041)|Lixin Su, Jiafeng Guo, Yixing Fan, Yanyan Lan, Ruqing Zhang, and Xueqi Cheng|AAAI|-|[CoQA](https://stanfordnlp.github.io/coqa/)|
+|2019|[**Incorporate User Representation for Personal Question Answer Selection Using Siamese Network**](https://doi.org/10.1109/ICASSP.2019.8682663)|Zihao Qi, Dario Bertero, Ian D. Wood, and Pascale Fung|ICASSP|-|-|
+|2019|[**Answer-Supervised Question Reformulation for Enhancing Conversational Machine Comprehension**](https://doi.org/10.18653/v1/D19-5805)|Qian Li, Hui Su, Cheng Niu, Daling Wang, Zekang Li, Shi Feng, and Yifei Zhang|MRQA@EMNLP|-|[QuAC](https://quac.ai/)|
+|2019|[**End-to-End Open-Domain Question Answering with BERTserini**](https://doi.org/10.18653/v1/n19-4013)|Wei Yang, Yuqing Xie, Aileen Lin, Xingyu Li, Luchen Tan, Kun Xiong, Ming Li, and Jimmy Lin|NAACL-HLT|-|[SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)|
+|2019|[**Attentive History Selection for Conversational Question Answering**](https://doi.org/10.1145/3357384.3357905)|Chen Qu, Liu Yang, Minghui Qiu, Yongfeng Zhang, Cen Chen, W. Bruce Croft, and Mohit Iyyer|CIKM|[GitHub](https://github.com/prdwb/attentive_history_selection)|[QuAC](https://quac.ai/)|
+|2019|[**BERT with History Answer Embedding for Conversational Question Answering**](https://doi.org/10.1145/3331184.3331341)|Chen Qu, Liu Yang, Minghui Qiu, W. Bruce Croft, Yongfeng Zhang, and Mohit Iyyer|SIGIR|[GitHub](https://github.com/prdwb/bert_hae)|[QuAC](https://quac.ai/)|
+|2019|[**Technical report on Conversational Question Answering**](http://arxiv.org/abs/1909.10772)|Ying Ju, Fubang Zhao, Shijie Chen, Bowen Zheng, Xuefeng Yang, and Yunfeng Liu|CoRR|-|[CoQA](https://stanfordnlp.github.io/coqa/)|
+|2018|[**SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering**](http://arxiv.org/abs/1812.03593)|Chenguang Zhu, Michael Zeng, and Xuedong Huang|CoRR|-|[CoQA](https://stanfordnlp.github.io/coqa/)|
 |||||||
 |||||||
 |||||||
