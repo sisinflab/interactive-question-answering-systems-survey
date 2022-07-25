@@ -90,19 +90,19 @@ The _factoid_ QASs are classified into _machine reading comprehension_ QASs (MRC
 |2019|[**BERT with History Answer Embedding for Conversational Question Answering**](https://doi.org/10.1145/3331184.3331341)|Chen Qu, Liu Yang, Minghui Qiu, W. Bruce Croft, Yongfeng Zhang, and Mohit Iyyer|SIGIR|[GitHub](https://github.com/prdwb/bert_hae)|[QuAC](https://quac.ai/)|
 |2019|[**Technical report on Conversational Question Answering**](http://arxiv.org/abs/1909.10772)|Ying Ju, Fubang Zhao, Shijie Chen, Bowen Zheng, Xuefeng Yang, and Yunfeng Liu|CoRR|-|[CoQA](https://stanfordnlp.github.io/coqa/)|
 |2018|[**SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering**](http://arxiv.org/abs/1812.03593)|Chenguang Zhu, Michael Zeng, and Xuedong Huang|CoRR|-|[CoQA](https://stanfordnlp.github.io/coqa/)|
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
+|2020|[**An Empirical Study of Content Understanding in Conversational Question Answering**](https://ojs.aaai.org/index.php/AAAI/article/view/6257)|Ting-Rui Chiang, Hao-Tong Ye, and Yun-Nung Chen|AAAI|[GitHub](https://github.com/MiuLab/CQA-Study)|[QuAC](https://quac.ai/), [CoQA](https://stanfordnlp.github.io/coqa/)|
+|2020|[**Fluent Response Generation for Conversational Question Answering**](https://doi.org/10.18653/v1/2020.acl-main.19)|Ashutosh Baheti, Alan Ritter, and Kevin Small|ACL|[GitHub](https://github.com/abaheti95/QADialogSystem)|[SQuAD 2.0](https://rajpurkar.github.io/SQuAD-explorer/), [CoQA](https://stanfordnlp.github.io/coqa/)|
+|2019|[**Evaluating Co-reference Chains Based Conversation History in Conversational Question Answering**](https://doi.org/10.1007/978-981-15-6168-9_24)|Angrosh Mandya, Danushka Bollegala, and Frans Coenen|PLACING|-|[CoQA](https://stanfordnlp.github.io/coqa/)|
+|2020|[**Do not let the history haunt you: Mitigating Compounding Errors in Conversational Question Answering**](https://aclanthology.org/2020.lrec-1.248/)|Angrosh Mandya, James O'Neill, Danushka Bollegala, and Frans Coenen|LREC|-|[CoQA](https://stanfordnlp.github.io/coqa/)|
+|2021|[**Question Rewriting for Conversational Question Answering**](https://doi.org/10.1145/3437963.3441748)|Svitlana Vakulenko, Shayne Longpre, Zhucheng Tu, and Raviteja Anantha|WSDM|-|[CANARD](https://sites.google.com/view/qanta/projects/canard), [TREC](https://trec.nist.gov/data/qamain.html), [QuAC](https://quac.ai/)|
+|2019|[**CoQA: A Conversational Question Answering Challenge**](https://doi.org/10.1162/tacl_a_00266)|Siva Reddy, Danqi Chen, and Christopher D. Manning|Transactions of the ACL|-|[CoQA](https://stanfordnlp.github.io/coqa/)|
+|2019|[**Conversational AI : Open Domain Question Answering and Commonsense Reasoning**](https://doi.org/10.4204/EPTCS.306.53)|Kinjal Basu|Technical Communications|-|[SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)|
+|2020|[**Exploring BERT Parameter Efficiency on the Stanford Question Answering Dataset v2.0**](https://arxiv.org/abs/2002.10670)|Eric Hulburd|CoRR|-|[SQuAD 2.0](https://rajpurkar.github.io/SQuAD-explorer/)|
+|2020|[**Conversational Question Answering in Low Resource Scenarios: A Dataset and Case Study for Basque**](https://aclanthology.org/2020.lrec-1.55/)|Arantxa Otegi, Aitor Gonzalez-Agirre, Jon Ander Campos, Aitor Soroa, and Eneko Agirre|LREC|-|[ElkarHizketak](http://ixa.si.ehu.es/node/12934)|
+|2019|[**How Does BERT Answer Questions?: A Layer-Wise Analysis of Transformer Representations**](https://doi.org/10.1145/3357384.3358028)|Betty van Aken, Benjamin Winter, Alexander Löser, and Felix A. Gers|CIKM|[GitHub](https://github.com/bvanaken/explain-BERT-QA)|[SQuAD](https://rajpurkar.github.io/SQuAD-explorer/), [HotpotQA](https://hotpotqa.github.io/), [bAbI](https://research.facebook.com/downloads/babi/)|
+|2016|[**An Interactive e-Government Question Answering System**](http://ceur-ws.org/Vol-1670/paper-26.pdf)|Malte Schwarzer, Jonas Düver, Danuta Ploch, and Andreas Lommatzsch|LWDA|-|-|
+|2019|[**Multilingual Question Answering from Formatted Text applied to Conversational Agents**](http://arxiv.org/abs/1910.04659)|Wissam Siblini, Charlotte Pasqual, Axel Lavielle, and Cyril Cauchois|CoRR|-|[SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)|
+|2018|[**Question-Answer Selection in User to User Marketplace Conversations**](https://doi.org/10.1007/978-981-13-9443-0_35)|Girish Kumar, Matthew Henderson, Shannon Chan, Hoang Nguyen, and Lucas Ngoo|IWSDS|-|-|
 
 **KNOWLEDGE BASE QUESTION-ANSWERING**
 
