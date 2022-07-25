@@ -168,8 +168,10 @@ The _visual_ QASs are _multi-modal_ QASs that deal with _images_ and _videos_.
 ## Authors
 
 This page is managed and maintined by:
-* Giovanni Maria Biancofiore [giovannimaria.biancofiore@poliba.it](mailto:givannimaria.biancofiore@poliba.it)
+* Giovanni Maria Biancofiore[^1] [giovannimaria.biancofiore@poliba.it](mailto:givannimaria.biancofiore@poliba.it)
 * Yashar Deldjoo [yashar.deldjoo@poliba.it](mailto:yashar.deldjoo@poliba.it)
 * Tommaso Di Noia [tommaso.dinoia@poliba.it](mailto:tommaso.dinoia@poliba.it)
 * Eugenio Di Sciascio [eugenio.disciascio@poliba.it](mailto:eugenio.disciascio@poliba.it)
 * Fedelucio Narducci [fedelucio.narducci@poliba.it](mailto:fedelucio.narducci@poliba.it)
+
+[^1]: Corresponding auhtor.
